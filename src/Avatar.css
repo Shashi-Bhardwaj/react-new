@@ -1,0 +1,10 @@
+import from 'https://fonts.googleapis.com/css?family=Gugi&display=swap'
+
+.Avatarstyle img{
+width:200px;
+height: 200px;
+}
+.Avatarstyle{
+	font-family: 'Gugi', cursive;
+
+}
